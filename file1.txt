@@ -1,6 +1,1 @@
-this is file 1
-<<<<<<< HEAD
-code edited by DevA
-=======
-this code is added by DevB
->>>>>>> DevB
+this is file 1git 
