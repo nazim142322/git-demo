@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 this code is added by DevB
-=======
 this is file2
->>>>>>> 5f5b2ee2bfb79b18b0cbde119d88306c3634158d
