@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+resume
+my name is sanjay rana
+addess 
+raipur road dehradun
+=======
 Nazim khan bio data
 Name is nazim
+>>>>>>> 9402d923ab5a2173b7c80456076631b52e6cc2e0
